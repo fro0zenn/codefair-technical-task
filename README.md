@@ -1,3 +1,13 @@
+# Main description:
+I want you to take into account the speed at which I completed this task. I opened your email at around 17:00.
+
+Also, please note that I haven't worked on technical tasks for about three months. I haven't been coding at all during this time, so I had to recall many things. Considering that it's the weekend now, I wouldn't like to spend it all just to deliver a super perfect test assignment. Please keep in mind that I'm doing this for free.
+
+I'd like to mention that I could have completed it faster, but I encountered an issue with parsing, more precisely with its library. That's why I quickly created my own parser with the help of AI. In the video link, I didn't see any parsing of YouTube videos, only images. I kept the content quite simple, and in terms of layout, I implemented basic elements. I don't believe that design plays such a crucial role in this technical task. I have created many websites, and some of them are in my CV.
+
+If you see No Data! - probably you should open this link https://cors-anywhere.herokuapp.com/https://www.eurogamer.net/feed/videos and activate working cors.
+
+Thanks!
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
